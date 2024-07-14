@@ -94,12 +94,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Sneakers", link: "/" },
+            { name: "Soccer shoes", link: "/" },
+            { name: "Tennis shoes", link: "/" },
+            { name: "Hiking shoes", link: "/" },
+            { name: "Basketball Shoes", link: "/" },
+            { name: "Dance shoes ", link: "/" },
         ],
     },
     {
@@ -110,6 +110,7 @@ export const footerLinks = [
             { name: "How it works", link: "/" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
+            { name: "Shipping", link: "/" }
         ],
     },
     {
